@@ -15,7 +15,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ## To try this sample
 
-- In a terminal, navigate to `EchoBot1`
+- In terminal, navigate to `EchoBot1`
 
     ```bash
     # change into project folder
