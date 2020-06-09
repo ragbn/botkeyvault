@@ -1,4 +1,4 @@
-﻿# EchoBot1
+﻿# BotkeyVault
 
 Bot Framework v4 echo bot sample.
 
@@ -19,7 +19,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
     ```bash
     # change into project folder
-    cd # EchoBot1
+    cd # BotKeyVault
     ```
 
 - Run the bot from a terminal or from Visual Studio, choose option A or B.
